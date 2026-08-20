@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/dprf_nada_consta_multas_pagas-mcp",
+  "title": "DPRF Nada consta: Multas Pagas",
+  "description": "DPRF Nada consta: Multas Pagas, official-source lookup. Platform-hosted, pay per query with prepaid ",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/dprf_nada_consta_multas_pagas-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_dprf_nada_consta_multas_pagas"
+    }
+  ]
+}

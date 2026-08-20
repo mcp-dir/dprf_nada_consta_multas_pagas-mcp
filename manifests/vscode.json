@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_dprf_nada_consta_multas_pagas.",
+  "servers": {
+    "dprf_nada_consta_multas_pagas": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_dprf_nada_consta_multas_pagas"
+    }
+  }
+}
